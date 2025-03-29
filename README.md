@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/bryan-khor-82178221a/" title="Visit my LinkedIn">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://bryan-khor-portfolio.netlify.app/" title="Visit my portfolio">
+  <a href="https://bryan-khor-portfolio-page.vercel.app/" title="Visit my portfolio">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=globe&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
