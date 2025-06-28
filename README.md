@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Bryan Khor and I'm a Senior, at San Francisco State University</h1>
+<h1 align="left">Hi 👋! My name is Bryan Khor, and I'm a Web Developer and UI/UX Designer</h1>
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Studying Computer Science at San Francisco State University<br>📚 I'm currently learning about Artificial Intelligence<br>🎯 Goals: To create softwares that will revolutionize the world<br>🎲 Fun fact: I'm a Clash of Clans veteran</p>
+<p align="left">✨ Graduated with a B.S in Computer Science, Summa Cum Laude at San Francisco State University<br>📚 I'm currently enhancing my skills in UI/UX<br>🎯 Goals: To create UI that helps users easily navigate through websites<br>🎲 Fun fact: I'm a Clash of Clans veteran</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bryan-khor-82178221a/" title="Visit my LinkedIn">
