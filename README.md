@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Graduated with a B.S in Computer Science, Summa Cum Laude at San Francisco State University<br>📚 I'm currently enhancing my skills in UI/UX<br>🎯 Goals: To create UI that helps users easily navigate through websites<br>🎲 Fun fact: I'm a Clash of Clans veteran</p>
+<p align="left">✨ Graduated with a B.S. in Computer Science, <i>Summa Cum Laude</i>, from San Francisco State University<br>📚 I'm currently enhancing my skills in UI/UX<br>🎯 Goals: To create user interfaces that help people easily navigate websites<br>🎲 Fun fact: I'm a Clash of Clans veteran</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bryan-khor-82178221a/" title="Visit my LinkedIn">
